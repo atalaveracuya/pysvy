@@ -14,13 +14,13 @@ reales de la ENA (INEI).
 Desde GitHub, directamente con pip (recomendado):
 
 ```bash
-pip install git+https://github.com/TU_USUARIO/TU_REPO.git
+pip install git+https://github.com/atalaveracuya/pysvy.git
 ```
 
 En Google Colab, la misma línea funciona igual dentro de una celda:
 
 ```python
-!pip install git+https://github.com/TU_USUARIO/TU_REPO.git
+!pip install git+https://github.com/atalaveracuya/pysvy.git
 ```
 
 ## Uso básico
